@@ -159,8 +159,8 @@ main section h2 /*.search-engine-optimization h2*/ {
     font-size: 36px;
 } */
 
-
-.footer {
+/* change from .footer to footer to inclide font size */
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -168,6 +168,6 @@ main section h2 /*.search-engine-optimization h2*/ {
     font-size: 20px;
 }
 
-.footer h2 {
+/* .footer h2 {
     font-size: 20px;
-}
+} */
