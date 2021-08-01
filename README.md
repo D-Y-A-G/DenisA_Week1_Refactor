@@ -4,7 +4,7 @@ Week One Homework
 
 Refactor:
 
-Optimized code and replaced div tags to semantic tags to provided a better user experience and flexibility.
+Optimized code and replaced div tags to semantic tags to provided a better user experience and flexibility.<br>
 Added notes to index.html file and to style.css file.
 
 <strong>Links:</strong><br>
